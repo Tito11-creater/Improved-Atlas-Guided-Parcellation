@@ -1,4 +1,5 @@
-![MWMA-200](./MWMA-200_picture.png)
+![IAGP framework](./figure1.png)
+
 # Improved-Atlas-Guided-Parcellation
 
 Welcome to the IAGP package; a companion to our article "An improved atlas-guided parcellation framework for generating individualized functionally homogeneous brain atlas".
